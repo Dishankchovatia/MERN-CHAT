@@ -34,7 +34,7 @@ function Homepage() {
         borderRadius="lg"
         borderWidth="1px"
       >
-        <Text fontSize="5xl" fontFamily="Work sans">
+        <Text fontSize="4xl" fontFamily="Work sans">
         𝔾𝕠𝕤𝕤𝕚𝕡
         </Text>
       </Box>
