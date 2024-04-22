@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> f16f737ec33ce512d04f4389533394b3591ab2a4
 import { Box } from "@chakra-ui/layout";
 import { useState } from "react";
 import Chatbox from "../components/Chatbox";
