@@ -11,7 +11,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "chat-app": "file:..",
     "framer-motion": "^4",
     "react": "^17.0.2",
@@ -20,9 +20,10 @@
     "react-lottie": "^1.2.3",
     "react-notification-badge": "^1.5.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "react-scrollable-feed": "^1.3.1",
     "socket.io-client": "^4.1.2",
+    "update": "^0.4.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
