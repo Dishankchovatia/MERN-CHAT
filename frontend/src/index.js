@@ -9,11 +9,11 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.render(
   <ChakraProvider>
-    <ChatProvider>
-      <BrowserRouter>
+    <BrowserRouter>
+      <ChatProvider>
         <App />
-      </BrowserRouter>
-    </ChatProvider>
+      </ChatProvider>
+    </BrowserRouter>
   </ChakraProvider>,
   document.getElementById("root")
 );
